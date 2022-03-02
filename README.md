@@ -1,7 +1,7 @@
 .
 
 
-> # My Math learning journey 
+ # My Math learning journey 
 
 
 
@@ -9,7 +9,7 @@
 
 
 
-**Learn about the prerequisite mathematics for applications in data science and machine learning , here are my studying in this field :**
+> **Learn about the prerequisite mathematics for applications in data science and machine learning , here are my studying in this field :**
  
  
 
