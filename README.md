@@ -8,6 +8,11 @@
 ================================
 
 
+
+ **Learn about the prerequisite mathematics for applications in data science and machine learning , here are my studying in this field :**
+ 
+ 
+
 - Coursera Specialization  :[Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning) ,here is the [Github Repo](https://github.com/nancyalaswad90/Mathematics-for-Machine-Learning-Specialization) for more details
 
 
